@@ -33,7 +33,7 @@ The automotive supply chain involves complex processes and a large number of sup
 
 ### Project Architecture
 
-![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/45a4771d-09a5-4f91-99a6-dac28bc34c7e)
+![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi/blob/main/images/proj%20aarch.png)
 
 ### Summary for Steps followed 
 1. **Data Gathering**
@@ -51,7 +51,7 @@ Let’s transform data on Power Query Editor, we need to remove some unnecessary
 4. **Modeling In Power BI**
 After creating the date master table, establish the relationship between these two tables using modelling. Go to the model view tab and create one-to-many relationship between date columns in both the tables. Also create a new measure for ‘Total Sales’ and keep all the new measures in separate table called ‘DAX Measures’.
 
-![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/fa1df666-5ee3-428a-b9ba-69ed47ca3ead)
+![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi/blob/main/images/MODELLING%20IN%20PBI.png)
 
 6. **Data Visualization**
    
@@ -60,15 +60,15 @@ In our dashboard project, we are gonna create four different pages and implement
 # Report Snapshot (Power BI DESKTOP & Python Code)
 
 **Python Code**
-![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/86b0d38a-6e2b-489e-9b65-26b7a364f196)
+![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi/blob/main/images/python%20code.png)
 
 **Power Bi Dashboard Reprot**
 
-![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/07fabc2b-8ca3-4e09-bea3-872282a2ab60)
+![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi/blob/main/images/scm_home.png)
 
-![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/54330014-c730-4c3b-95ef-128cd4d970f8)
+![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi/blob/main/images/order%20detail.png)
 
-![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/9429623b-9896-4329-90f8-34a45b7a5994)
+![image](https://github.com/N-ansari1902/Supply-Chain-Management-Dashboard-Power-Bi/blob/main/images/sales%20detail.png)
 
 **Contributing**
 
